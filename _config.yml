@@ -1,14 +1,15 @@
 title: "Fathinah Asma Izzati"
 email: fathinah.asma@ui.ac.id
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  I (20) am a computer science junior at one of the top universities in Indonesia with 2+ years of programming experience in Python and Java. From prior 
+  internships, numerous projects, and school courses, I have gained a solid fundamental of big data analytics and architecture, image processing, and
+  machine learning. I am also well-adapt with the math concept and application of ML supervised, unsupervised, and deep learning models on a large
+  dataset in Python. I am an adaptable, proactive problem solver, aspiring data enthusiast with a strong analytical, verbal, and written skill, and a sense of
+  humor, who value collaboration to create meaningful impacts.
 # Root directory for your portfolio. On GitHub Pages, this is the name of your repository.
 baseurl: "/portfolio"
 # Protocol + hostname for your portfolio. On GitHub Pages, this is https://yourusername.github.io
 url: "https://fathinah.github.io" 
-twitter_username: none
 github_username: fathinah
 form_url: "https://formspree.io/f/xrgodpqo"
 social_image: "./assets/img/social-link.jpg"
@@ -18,4 +19,4 @@ google_analytics_measurement_id: # G-XXXXXXXXXX
 sass:
   sass_dir: _sass
 
-icon: ./assets/img/icon.jpg
+icon: ./assets/img/profile.jpeg
