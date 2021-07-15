@@ -1,1 +1,1 @@
-This repository serves my resume that can be accessed on http://www.fathinah.com/.
+This repository contains my resume that is publicly available at http://www.fathinah.com/.
