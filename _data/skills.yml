@@ -5,39 +5,39 @@
 - name: Languages
   skills:    
     - skill: Python
-      profeciency: Intermediate
+      profeciency: Advanced
       icon: devicon-python-plain
 
     - skill: Java
       profeciency: Intermediate
       icon: devicon-java-plain
     
-    - skill: SQL (MongoDB, PostgreSQL, MySQL, Impala, Hive)
+    - skill: SQL (PostgreSQL, MySQL, HiveQL, ImpalaQL)
       profeciency: Advanced
-      icon: devicon-python-plain
+      icon: devicon-postgresql-plain
 
 # frameworks section
 - name: Frameworks
   skills:
-    - skill: Kotlin
-      profeciency: Beginner
-      icon: devicon-flutter-plain
-
-    - skill: Hadoop
-      profeciency: Beginner
-      icon: devicon-flutter-plain
+    - skill: Tensorflow
+      profeciency: Advanced
+      icon: devicon-tensorflow-original
 
     - skill: Django
       profeciency: Intermediate
       icon: devicon-django-plain
-      
-    - skill: Tensorflow
-      profeciency: Advanced
-      icon: devicon-express-original
-    
+
+    - skill: Hadoop
+      profeciency: Beginner
+      icon: devicon-apache-plain
+
+    - skill: Kotlin
+      profeciency: Beginner
+      icon: devicon-kotlin-plain
+
     - skill: Javascript
       profeciency: Intermediate
-      icon: devicon-express-original
+      icon: devicon-javascript-plain
 
 # interpersonal section
 - name: Soft Skills
@@ -45,6 +45,10 @@
     - skill: Communication Skills
       profeciency: Advanced
       icon: fas fa-satellite-dish
+
+    - skill: Copywrite & Academic Writing (ID/EN)
+      profeciency: Advanced
+      icon: fas fa-file-word
 
     - skill: Presentation Skills
       profeciency: Advanced

@@ -1,23 +1,29 @@
 email:
-  id: "your.name@yoursite.com"
+  id: "fathinahai@gmail.com"
   href: "mailto:"
   title: "Email"
   fa-icon: "fa-envelope-square fa-2x"
 
-github:
-  id: "your-github-name"
-  href: "https://github.com/"
+gitlab:
+  id: "gitlab"
+  href: "https://github.com/fathinah"
   title: "GitHub"
+  fa-icon: "fa-gitlab-square fa-2x"
+
+github:
+  id: "github"
+  href: "gitlab.com/fathinah"
+  title: "GitLab"
   fa-icon: "fa-github-square fa-2x"
 
 linkedin:
-  id: "your-linkedin-name"
-  href: "https://linkedin.com/"
+  id: "linkedin"
+  href: "linkedin.com/in/fathinah-izzati/"
   title: "Linkedin"
   fa-icon: "fa-linkedin-square fa-2x"
 
-twitter:
-  id: "your-twitter-name"
-  href: "https://www.twitter.com/"
-  title: "Twitter"
-  fa-icon: "fab fa-twitter fa-2x"
+medium:
+  id: "linkedin"
+  href: "fathinah.medium.com"
+  title: "Medium"
+  fa-icon: "fa-medium-square fa-2x"

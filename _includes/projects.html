@@ -4,7 +4,7 @@
     {% if item.page-name %}
     <a href="{{ '/projects/' | append: item.page-name | absolute_url }}">
     {% else %}
-    <a>
+    <a href="{{ item.page-names }}">
     {% endif %}
       <div class="card shadow">
         <div class="info">
