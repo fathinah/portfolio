@@ -1,10 +1,14 @@
 - course: BSc Computer Science
+  institute: Universitas Indonesia
+  dates: 2018 - 2022
+  logo: ui.png
+  
+- course: Exchange, School of Computer Science
   institute: University of Birmingham
-  dates: 2018 - 2021
+  dates: Jan 2020 - Jun 2020
   logo: uob.png
-  
-- course: Explorer Fellow
-  institute: MLH Fellowship
-  dates: Fall 2020
-  logo: fellowship.svg
-  
+
+- course: Google Bangkit - Machine Learning
+  institute: Ministry of Education and Culture of the Republic of Indonesia
+  dates: Jan 2021 - Jun 2021
+  logo: bangkit.png

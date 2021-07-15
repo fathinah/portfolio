@@ -19,4 +19,4 @@ google_analytics_measurement_id: # G-XXXXXXXXXX
 sass:
   sass_dir: _sass
 
-icon: ./assets/img/profile.jpeg
+icon: ./assets/img/profile.jpg

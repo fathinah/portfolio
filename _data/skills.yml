@@ -7,39 +7,47 @@
     - skill: Python
       profeciency: Intermediate
       icon: devicon-python-plain
-      
-    - skill: C++
-      profeciency: Beginner
-      icon: devicon-c-plain
 
     - skill: Java
       profeciency: Intermediate
       icon: devicon-java-plain
+    
+    - skill: SQL (MongoDB, PostgreSQL, MySQL, Impala, Hive)
+      profeciency: Advanced
+      icon: devicon-python-plain
 
 # frameworks section
 - name: Frameworks
   skills:
-    - skill: Flutter
-      profeciency: Intermediate
+    - skill: Kotlin
+      profeciency: Beginner
+      icon: devicon-flutter-plain
+
+    - skill: Hadoop
+      profeciency: Beginner
       icon: devicon-flutter-plain
 
     - skill: Django
-      profeciency: Advanced
+      profeciency: Intermediate
       icon: devicon-django-plain
       
-    - skill: Express.js
-      profeciency: Beginner
+    - skill: Tensorflow
+      profeciency: Advanced
+      icon: devicon-express-original
+    
+    - skill: Javascript
+      profeciency: Intermediate
       icon: devicon-express-original
 
 # interpersonal section
 - name: Soft Skills
   skills:
     - skill: Communication Skills
-      profeciency: Beginner
+      profeciency: Advanced
       icon: fas fa-satellite-dish
 
     - skill: Presentation Skills
-      profeciency: Intermediate
+      profeciency: Advanced
       icon: fas fa-file-powerpoint
 
     - skill: Team Player

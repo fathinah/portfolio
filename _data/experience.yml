@@ -1,4 +1,14 @@
-- role: Open Source Fellow
-  company: MLH Fellowship
-  dates: Summer 2020
-  logo: fellowship.svg
+- role: Data Engineer
+  company: OVO
+  dates: Oct 2020 - April 2021
+  logo: ovo.png
+
+- role: Data Scientist
+  company: Asia Technology Venture
+  dates: Aug 2020 - Oct 2020
+  logo: asia.png
+
+- role: Computer Science Mentor
+  company: Generation Girl
+  dates: Summer 2019
+  logo: geng.png
