@@ -3,9 +3,9 @@ email: fathinah.asma@ui.ac.id
 description: >- # this means to ignore newlines until "baseurl:"
   
 # Root directory for your portfolio. On GitHub Pages, this is the name of your repository.
-# baseurl: "/portfolio"
+baseurl: "/portfolio"
 # Protocol + hostname for your portfolio. On GitHub Pages, this is https://yourusername.github.io
-url: "https://fathinah.github.io" 
+url: "https://fathinah.com" 
 github_username: fathinah
 gitlab_username: fathinah
 form_url: "https://formspree.io/f/mdoyldol"
